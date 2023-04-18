@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Authority Partners
+- 🌱 I’m currently learning C# and Unity
+
+- 📫 How to reach me: lovizotto@gmail.com
+
+About Me 🚀
+👋 Hey there! I'm a Senior Frontend Developer with 14+ years of experience in ReactJS and React Native. I offer technical expertise and help my team find the best solutions for mobile and web platforms.
+
+🌟 I have extensive knowledge of Javascript/Typescript, Jest/Testing-library, HTML, CSS, Sass, Bootstrap, Styled-components, Storybook, Git/SVN, MySQL/MongoDB, and Unit testing. I'm an expert in Agile methodologies, particularly Scrum and Squads.
+
+💻 My main skills include ReactJS (Redux, Hooks, Typescript), React Native, MongoDB, Express, NodeJS, NestJS, PHP, Laravel, MySQL, REST, GraphQL, CI/CD, Fastlane, SOLID, TDD.
+
+👨‍💼 My professional characteristics include leadership, innovation, responsibility, self-management, commitment, entrepreneurship, and the ability to work remotely. In the next few years, I aim to return to leadership roles, where I have a wealth of experience.
+
 -->
