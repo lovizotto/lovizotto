@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 About Me 🚀
 
 - 🔭 I’m currently working on Authority Partners / CEM Benchmarking
-- 🌱 I’m currently learning about Astro, Qwik, Island arch.
 - 📫 How to reach me: lovizotto@gmail.com
 
 
