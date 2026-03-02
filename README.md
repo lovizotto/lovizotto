@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 About Me 🚀
-
 - 📫 How to reach me: lovizotto@gmail.com
 
 
