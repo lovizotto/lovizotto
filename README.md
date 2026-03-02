@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 About Me 🚀
 
-- 🔭 I’m currently working on Authority Partners / CEM Benchmarking
 - 📫 How to reach me: lovizotto@gmail.com
 
 
